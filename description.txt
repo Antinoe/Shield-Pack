@@ -1,0 +1,39 @@
+﻿THIS PACK HAS GONE THROUGH A RE-WRITE. BOTH ITS CODE AND SPRITES ARE CURRENTLY BEING REBUILT FROM THE GROUND UP FOR A MORE BALANCED AND CONSISTENT EXPERIENCE.
+
+Don't expect anything of quality right now. The sprites will definitely be improved, and more shields and shield types may be added.
+
+
+-Shield Types-
+-Bucklers: Smaller, light-weight alternatives. Possess less Defense and Weight than their Parma successor.
+-Parmas: Normal shield.
+-Towers: Larger, heavier alternatives. Possess more Defense and Weight than their Parma predecessor.
+
+
+-v0.1-
+-Initial build. Segregated from Misc Things v0.5.
+-Rebalanced the Defense and Weight of Early-Game shields.
+
+-v0.2-
+-Removed the Frozen Turtle Shield, Hero Shield and Holy Shield. I had forgotten that 1.4 already has its rendition of end-game Shields. I may re-add these under different names and functions in the future, however.
+-Updated the Mod Icon.
+
+-v0.3-
+-Rebalanced the Defense of all Wood shields. Each one's Defense is now parallel to that of its Breastplate counterpart.
+-Added the Leather Shield.
+-Improved the calculation for the Turtle Shield and Beetle Shield. With this method, not only are the mechanics much more dynamic, they are also (hopefully) balanced, as the Player will only reach the higher numbers of Defense when they are closer to the lowest state of Life they can reach.
+
+-v0.4-
+__Gameplay Changes__
+-Added many Thorium shields.
+-Introduced Bucklers, a new type of Shield. They do not add any Movement Weight, but possess slightly less Defense than their counterpart.
+__Miscellaneous__
+-Organized the file paths.
+
+-v0.5-
+__Gameplay Changes__
+-Completely reworked both the sprites, items and overall balance of the pack from the ground up.
+-Shields now use ``Player.velocity.X`` instead of ``Player.moveSpeed``.
+-As of now, this pack contains Bucklers, Parmas and Towers of the following materials: Wood, Copper and Iron.
+
+-v0.5.1-
+-Re-sprited all of the Board Shields (on-player visual) to a more smooth, traditional style.
