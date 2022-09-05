@@ -1,4 +1,4 @@
 displayName = Shield Pack
 author = Antinous
-version = 0.5.1
+version = 0.5.2
 homepage = https://github.com/Antinoe/Shield-Pack

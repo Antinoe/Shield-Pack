@@ -1,12 +1,14 @@
-﻿THIS PACK HAS GONE THROUGH A RE-WRITE. BOTH ITS CODE AND SPRITES ARE CURRENTLY BEING REBUILT FROM THE GROUND UP FOR A MORE BALANCED AND CONSISTENT EXPERIENCE.
-
-Don't expect anything of quality right now. The sprites will definitely be improved, and more shields and shield types may be added.
-
+﻿The content of Shield is quite dim in Terraria. This project aims to fix that by adding Shields of various materials throughout Progression.
 
 -Shield Types-
 -Bucklers: Smaller, light-weight alternatives. Possess less Defense and Weight than their Parma successor.
 -Parmas: Normal shield.
 -Towers: Larger, heavier alternatives. Possess more Defense and Weight than their Parma predecessor.
+
+Individual Shield Stats can be tweaked to your liking within the Config.
+
+-Credits-
+Logar: The spriter for the new Shield Textures.
 
 
 -v0.1-
@@ -37,3 +39,15 @@ __Gameplay Changes__
 
 -v0.5.1-
 -Re-sprited all of the Board Shields (on-player visual) to a more smooth, traditional style.
+
+-v0.5.2-
+[=] Recipes containing Wood now use the Recipe Group, not the Item. This may change if shields of varying Wood Types are introduced.
+[=] Rebalanced the Defense and Weight of Parma and Tower shields.
+[=] Updated the mod for the September Update of TML.
+[=] Replaced all sprites with improved versions. On-Player sprite improvements will be in the next update. (Thanks, Logar.)
+[+] Added Lead shields.
+[=] Updated the Mod Icon.
+[-] Removed Weight Descriptions on all shields.
+[=] Changed some Item Names.
+[=] The Metal-based shields are now crafted at Anvils, not Workbenches.
+[+] Added extensitve Configuration for toggling Shield Weight and individual stats for every single shield in the mod.
